@@ -6,4 +6,4 @@ server spawn, and much more, or even to wear it!
 # What server.jar modifications does this work on?
 Paper, Spigot, and Bukkit!
 # Where do I download this?
-You can download this from the resources tab on the right!
+You can download this from the releases tab on the right!
